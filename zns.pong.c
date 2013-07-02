@@ -34,7 +34,7 @@ void pong_bang(t_pong *x);
 void *pong_class;
 
 
-int main(void)
+int C74_EXPORT main(void)
 {	
     t_class *c;
 
